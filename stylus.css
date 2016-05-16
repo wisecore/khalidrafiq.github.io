@@ -1,0 +1,956 @@
+
+
+body {
+
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+
+	background: #fdfcfa!important;
+	height: 80px;
+}
+
+
+navbar-fixed-top {
+
+   background: black !important;
+
+}
+
+.navbar-collapse {
+
+    margin-top: 25px !important;  
+    margin-left: 20px !important; 
+}
+
+.em-text {
+
+	margin-top: 20px;
+}
+
+
+/* index or home page */
+
+
+
+.jumbotron {
+    
+	/*background: url(../img2/buss12.jpg) no-repeat;
+	height: ;*/
+}
+
+.mainpic1 {
+
+	width: 100%;
+	height: 620px;
+}
+
+.headjombo {
+
+    
+}
+
+.jumbopic {
+
+	margin-left: 3px;
+	margin-top: 20px;
+	width: 400px;
+}
+
+.mainhead {
+
+    margin-top: 25%;
+    color: #cdba89 !important;
+    font-weight: 700;
+ 
+}
+
+#maincaro {
+
+	height: auto !important;
+}
+
+.mainheading {
+
+	font-weight: bolder !important;
+	font-family: Cambria !important;
+	float: left;
+	margin-left: -200px;
+	margin-top: -190px !important; 
+}
+
+.esthetics {
+
+	color: white !important;
+	font-size: 18px !important;
+	margin-top: -140px !important;
+	float: left;
+	margin-left: -200px;
+}
+
+.em-text {
+
+	color: crimson ! important;
+    text-shadow: 1px 1px 1px black;
+	font-weight: 500 !important;
+	font-family: forte;
+}
+
+.stratapp {
+
+ 
+   height: auto;
+   margin-left: 75px;
+  
+}
+
+.li_phone, .li_params, .li_clock  {
+
+	
+	padding: 10px !important;
+}
+
+/* Projects page*/
+
+.para1 {
+    font-family: constantia;
+    font-weight: normal;
+    margin-top: -280px;
+    margin-left: 30px;
+	font-size: 21px !important;
+	color: white !important;
+	font-weight: bolder !important;
+	
+	 	
+}
+
+.workhis {
+
+	margin-top: -70px;
+}
+
+.mobilelive {
+
+	margin-left: 70px;
+	margin-right: 70px;
+}
+
+.khalidpic {
+
+	margin-left: 400px;
+}
+
+.aboutme {
+
+    margin-top: -70px;
+}
+
+ .hi {
+
+	font-family: forte !important;
+	font-size: 36px !important;
+	font-weight: bold !important;
+}
+
+.contactme {
+
+	margin-top: -70px;
+}
+
+.team-member2 {
+
+	margin-left: 50px;
+}
+
+.uponreq {
+
+    margin-top: 25px;
+	font-size: 18px;
+}
+
+.section-subheading {
+
+	margin-bottom: 20px;
+}
+
+
+.slog {
+
+	text-align:  center;
+
+}
+
+.slog2 {
+
+	color: white !important;
+	font-size: 18px;
+	font-family: Source Sans Pro;
+	margin-left: 15px;
+}
+
+.showcaseimg {
+
+	margin-top: 15%;
+    width: 96%;
+}
+
+.ethic {
+
+	font-weight: 800;
+	font-size: 25px;
+	margin-bottom: 30px;
+}
+
+
+
+.midimg1 {
+
+	border: 1.2px black solid;
+	border-radius: 5px;
+	width: 25%;
+	height:75px;
+	margin-bottom: 20px;
+	box-shadow: 3px 3px 3px gray;
+	margin-left: 15px;
+	margin-top: 50px;
+}
+
+.workh3 {
+
+    color: white;
+    font-weight: normal;
+    font-family: Source Sans Pro;
+    font-size: 43px;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.head2 {
+
+	color: white;
+}
+
+.paramid1 {
+
+    color: white;
+}
+
+
+.btn-default {
+
+	margin-top: 10px;
+}
+
+
+.butt1 {
+
+    margin-top: 23px !important;
+    margin-left: 25px !important;
+}
+
+.butt2 {
+
+   margin-top: 53px !important;
+   margin-left: 26px !important;
+}
+ 
+.butt3 {
+
+    margin-top: 7px !important;
+    margin-left: 25px !important;
+}
+
+.jumbotron .applebtn {
+
+	width: 130px;
+	height: 50px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+.jumbotron .goobtn {
+
+    margin-top: 20px;
+	width: 145px;
+	height: 60px;
+}
+
+.expertise{
+
+	margin-top: 10px;
+	color: white;
+	margin-left: 15px;
+	font-family: Source Sans Pro;
+	font-size: 40px !important;
+	font-weight: normal !important;
+}
+
+.explist {
+
+   margin-top: -20px;
+   color: white !important;
+   font-size: 18px;
+   margin-bottom: 25px;
+   font-family: Source Sans Pro;
+   margin-left: 15px;
+
+}
+
+.youngman {
+
+	height: 510px;
+	width: 1100px;
+}
+
+.blox1 {
+
+	background-color: #0d1b28 !important;
+}
+
+.tagline-thin {
+
+	text-align: center !important;
+}
+
+.paramid1 {
+
+	margin-left: 20px;
+}
+
+
+/* Mid Section of the Home page */
+
+.head2 {
+
+	margin-left: 20px;
+    font-family: euphemia;
+}
+
+section {
+
+	padding: 40px 0px 40px 0px;
+	
+}
+
+#middle {
+     
+     margin-top: 40px;
+     height: 600px;
+     background-color: black !important;
+
+}
+
+/* Bottom Section of the Home Page     */
+
+
+.lowerimg {
+	width: 80%;
+}
+
+
+#bottom {
+    padding-top:40px;
+	background:  #999966;
+	color: white !important;
+	overflow: auto;
+	height: 500px;
+	margin-left: 0;
+	margin-right: 0;
+	padding-right: 0;
+	padding-left: 0;
+}
+
+#bottom ul li {
+  
+   font-size: 22px;
+   list-style: none;
+   line-height: 2.0em;
+
+}
+
+.btmheading {
+
+	font-family: Source Sans Pro !important;
+	margin-bottom: 20px;
+	 color: white;
+}
+
+.reftext {
+
+ color: white;	
+}
+
+
+.listbtm{
+	font-family: euphemia;
+}
+
+
+.footsy {
+
+	background: #3a3933 !important;
+	padding: 50px 0px 20px 0px !important;
+	height: 170px !important;
+	
+}
+
+.ftrlist {
+
+	float: left;
+	padding:0 10px 0 10px;
+	list-style: none;
+	color: white !important;
+
+}
+
+.copyfoot {
+
+	float: right;
+	margin-top: 70px;
+	
+}
+
+.copyritepara {
+
+color: white !important;
+margin-top: -40px;
+margin-left: 30px;
+
+}
+
+/* CSS for the ABOUT page */
+
+#titlebar {
+      
+    padding: 0;
+    margin: 0;
+    height: 80px;
+    background: peru;
+    color: white;
+
+}
+
+
+.abouth1 {
+
+	font-family: constantia;
+	font-weight: bold;
+
+}
+
+.aboutimg {
+
+	border: 1.2px black solid;
+	width: 100%;
+	height:320px;
+}
+
+/* For the Project Page */
+
+
+.mainhead2 {
+	font-size: 39px;
+	margin-right: 5%;
+	margin-left: 30px; 
+    margin-top: 15%;
+    color: black;
+
+}
+
+
+.showcaseimg2 {
+    border: 2px solid;
+	box-shadow: -5px -5px 5px silver inset, 
+	5px 5px 5px gray inset;
+    height: 530px;
+	width: 50%;
+	margin-top: 2px;
+
+}
+
+
+.para2 {
+    margin-left: 50px;
+	font-family: forte;
+	font-size: 23px;
+	color: black;
+}
+
+.para3 {
+    
+    margin-left: 80px;
+	font-family: forte;
+	font-size: 25px;
+	color: black;
+
+}
+
+.para4 {
+    
+    margin-left: 90px;
+	font-family: euphemia;
+	font-size: 21px;
+	color: black;
+
+}
+
+/* Contact Page */
+
+.contactimg {
+     
+    border: 1.2px solid;
+	width: 100%;
+	height:400px;
+    margin-top: 30px;
+}
+
+.footsy {
+
+
+}
+
+.ftrlist {
+
+	display: inline-block !important;
+	list-style: none !important;
+
+}
+
+
+
+/* MEDIA QUERRIES */
+
+@media(max-width:1200px) {
+
+  .mainheading {
+
+	font-weight: bolder !important;
+	font-size: 18px !important;
+	font-family: Cambria !important;
+	float: left;
+	margin-left: -170px;
+	margin-top: -150px !important; 
+}
+
+.esthetics {
+
+	color: white !important;
+	font-size: 12px !important;
+	margin-top: -110px !important;
+	float: left;
+	margin-left: -180px;
+}
+
+}
+
+@media(max-width: 990px) {
+
+ .showcaseimg {
+
+	display:none; 
+}
+
+ .showcaseimg2 {
+
+ 	display: none;
+ }
+
+.jumbotron {
+
+	height: 350px;
+}
+ 
+.para3 {
+    
+    margin-left: 60px;
+	font-family: forte;
+	font-size: 20px;
+	color: black;
+
+}
+
+.para4 {
+    
+    list-style: none !important;
+    margin-left: 70px;
+	font-family: Times New Roman;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 14px;
+	color: black;
+	
+
+}
+
+.jumbotron .applebtn {
+
+	width: 110px;
+	height: 40px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+ .jumbotron .goobtn {
+
+    margin-top: 20px;
+	width: 110px;
+	height: 50px;
+}
+
+ .midimg1 { 
+	
+	margin-top: 10px;
+	border: 1.2px black solid;
+	width: 85%;
+	height:190px;
+}
+
+.lowerimg {
+
+  	width: 50%;
+  	height: 200px;
+  	margin-top: 5px;
+  }
+ 
+ 
+ }
+
+@media(min-width: 768px) and (max-width: 990px) {
+
+ .showcaseimg {
+
+ 	display: none;
+ }
+
+.showcaseimg2 {
+
+ 	display: none;
+ }
+
+ 
+ .jumbotron {
+
+ 	height: 300px !important;
+ 	background-size: 100% 100%; 
+ 	overflow: none;
+ }
+
+  .jumbotron h1 {
+
+  	margin-top: 12px;
+  }
+
+
+ .jumbotron .applebtn {
+
+	width: 110px;
+	height: 40px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+ .jumbotron .goobtn {
+
+    margin-top: 20px;
+	width: 110px;
+	height: 50px;
+}
+
+  .mainheading {
+
+	font-weight: bolder !important;
+	font-size: 18px !important;
+	font-family: Cambria !important;
+	float: left;
+	margin-left: -150px;
+	margin-top: -120px !important; 
+}
+
+.esthetics {
+
+	color: white !important;
+	font-size: 12px !important;
+	margin-top: -80px !important;
+	float: left;
+	margin-left: -160px;
+}
+
+.carousel-inner {
+
+   margin-top: 1px !important;
+}
+
+#middle {
+     
+     margin-top: 20px;
+     height: 1250px;
+
+}
+
+ .midimg1 {
+	
+	margin-top: 10px;
+	border: 1.2px black solid;
+	width: 40%;
+	height:220px;
+}
+
+#bottom {
+    
+	background: peru;
+	background-size: 60%;
+	color: white;
+	padding: 20px;
+	overflow: auto;
+}
+
+.rowbtm {
+
+	height: 200px !important;
+}
+
+
+#bottom ul li {
+   
+   font-size: 19px;
+   list-style: none;
+   line-height: 1.0em;
+
+}
+
+.lowerimg {
+
+  	width: 26%;
+  	height: 180px;
+  	float: right;
+  	margin-top: 2px;
+  }
+
+}
+
+@media (max-width:768px) {
+
+.jumbotron {
+
+ 	height: 300px !important;
+ 	background-size: 100% 100%; 
+ 	
+ }
+
+  .jumbotron h1 {
+
+  	margin-top: 12px;
+  }
+
+.showcaseimg2 {
+
+ 	display: none;
+ }
+
+ .jumbotron .applebtn {
+
+	width: 110px;
+	height: 40px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+ .jumbotron .goobtn {
+
+    margin-top: 20px;
+	width: 110px;
+	height: 50px;
+}
+
+  .mainheading {
+
+	font-weight: bolder !important;
+	font-size: 12px !important;
+	font-family: Cambria !important;
+	float: left;
+	margin-left: -80px;
+	margin-top: -100px !important; 
+}
+
+.esthetics {
+
+	color: white !important;
+	font-size: 8px !important;
+	margin-top: -60px !important;
+	float: left;
+	margin-left: -85px;
+}
+
+.carousel-indicators {
+
+	visibility: hidden !important;
+}
+
+.carousel-inner {
+
+   margin-top: 35px !important;
+}
+
+#middle {
+     
+     margin-top: 40px;
+     height: 1100px !important;
+
+}
+
+ .midimg1 {
+	
+	margin-top: 10px;
+	border: 1.2px black solid;
+	width: 50%;
+	height:220px;
+}
+
+.lowerimg {
+
+  	width: 40%;
+  	height: 200px;
+  }
+
+
+}
+
+@media(max-width: 500px) {
+
+ .jumbotron {
+
+ 	height:280px;
+ }
+
+  .jumbotron h1 {
+
+  	margin-top: 20px;
+  }
+
+  .showcaseimg2 {
+
+ 	display: none;
+ }
+
+
+ .jumbotron .applebtn {
+
+	width: 110px;
+	height: 40px;
+	margin-top: 20px;
+	margin-right: 20px;
+}
+
+.jumbotron .goobtn {
+
+    margin-top: 20px;
+	width: 125px;
+	height: 50px;
+}
+
+
+.mainheading {
+
+    color: white !important;
+	font-size: 8px !important;
+	margin-top: 30px !important;
+	margin-left: -50px !important;  	
+  }
+
+
+.esthetics {
+
+	visibility: hidden !important;
+	
+}
+
+.carousel-indicators {
+
+	visibility: hidden !important;
+}
+
+.carousel-inner {
+
+   margin-top: 40px !important;
+}
+
+
+.para2 {
+    margin-left: 30px;
+	font-family: forte;
+	font-size: 21px;
+	color: black;
+}
+
+ .para3 {
+
+ 	display: none;
+ }
+
+ .para4 {
+
+ 	display: none;
+ }
+
+ #middle {
+     
+     margin-top: 5px;
+     height: 1500px;
+     overflow: auto;
+
+}
+
+ .midimg1 {
+	
+	margin-top: 10px;
+	border: 1.2px black solid;
+	width: 70%;
+	height:200px;
+}
+
+.youngman {
+
+	height: 300px !important;
+	width: 700px !important;
+}
+
+
+
+#bottom {
+
+    margin-top: 5px;
+	background: #0d262a !important;
+	background-size: 50%;
+	color: white;
+	padding: 10px;
+	
+}
+
+
+#bottom ul li {
+   
+   font-size: 19px;
+   list-style: none;
+   line-height: 1.0em;
+
+}
+  .lowerimg {
+
+  	display: none;
+  }
+
+   .listbtm {
+
+   	 font-size: 19px !impotant;
+   	 color: white !impotant;
+   }
+
+ .footsy ul li {
+  
+    display:none;
+
+ }
+}
+
